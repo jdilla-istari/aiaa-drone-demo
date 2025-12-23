@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "inputs": [
+        {
+            "description": "",
+            "name": "Span",
+            "type": "real",
+            "units": "mm",
+            "value": 3657.6
+        },
+        {
+            "description": "",
+            "name": "LE Sweep P1",
+            "type": "real",
+            "units": "deg",
+            "value": 46.5
+        },
+        {
+            "description": "",
+            "name": "LE Sweep P2",
+            "type": "real",
+            "units": "deg",
+            "value": 46.5
+        },
+        {
+            "description": "",
+            "name": "TE Sweep P1",
+            "type": "real",
+            "units": "deg",
+            "value": -46.5
+        },
+        {
+            "description": "",
+            "name": "TE Sweep P2",
+            "type": "real",
+            "units": "deg",
+            "value": 15.0
+        },
+        {
+            "description": "",
+            "name": "Panel Break Span %",
+            "type": "real",
+            "value": 0.31
+        },
+        {
+            "description": "",
+            "name": "Mesh Export Path",
+            "type": "file_path",
+            "value": "./Outputs/"
+        }
+    ],
+    "title": "Drone Wing Analysis"
+}
